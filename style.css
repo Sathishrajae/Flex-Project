@@ -1,0 +1,130 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.header{
+    display: flex;
+    justify-content: space-around;;
+    background-color: greenyellow;
+    padding: 10px;
+    
+}
+.container{
+    display:flex;
+    padding: 10px;
+    justify-content: right;
+    gap: 40px;
+}
+.hero{
+    background-color: antiquewhite;
+    color:rgb(50, 16, 82);
+    padding-top: 40px;
+    display: flex;
+    justify-content:space-between;
+    font-size: 16px;
+
+}
+.container1-left{
+    background-color: antiquewhite;
+    margin-left: 190px;
+    width: 300px;
+    height: 350px;
+
+
+}
+
+.container2-left{
+    display: flex;
+    width: 100px;
+    height: 100px;
+
+}
+    
+.Fruits{
+    padding: 40px;
+    padding-bottom: 100px;
+    background-color: greenyellow;
+    text-align: center;
+}
+.Fruits h1 {
+    font-size: 36px;
+    color: rgb(50, 16, 82);
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.Fruits-items{
+    display: flex;
+ justify-content: space-between;
+ font-weight: 350px;
+}
+.Fruits-item img {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    gap:50px;
+    object-fit: cover;
+}
+.Fruits .des{
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+section{
+    background-color: greenyellow;
+    color: white;
+    width: 90px;
+    padding: 2px;
+    
+}
+.container3{
+    background-color:antiquewhite;
+    text-align: center;
+}
+.container3 .quote{
+    font-size: 20px;
+    font-weight: 100;
+    color: grey;
+    font-style: italic;
+    
+}
+.container3 .quote-author{
+    font-size: 15px;
+    text-align: end;
+    font-weight: bold;
+    font-style: italic;
+}
+.container4-left{
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 2px;
+}
+.store-name{
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+.container4 {
+    margin: auto;
+}
+button{
+    margin-left: 586px;
+    background-color:greenyellow ;
+    color: white;
+    size: 40px;
+    padding-bottom: 5px;
+    
+}
+footer{
+    text-align:center;
+    background-color: greenyellow;
+    padding: 5px;
+}
+.logo{
+
+    width: 500px;
+    height: 300px;
+    float: right;
+    margin-right: 150px;
+}
