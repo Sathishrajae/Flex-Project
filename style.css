@@ -58,6 +58,9 @@ body{
  justify-content: space-between;
  font-weight: 350px;
 }
+.Fruits-item a{
+    text-decoration:none;
+}
 .Fruits-item img {
     width: 250px;
     height: 200px;
